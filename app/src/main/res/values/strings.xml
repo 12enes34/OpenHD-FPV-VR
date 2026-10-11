@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FPV VR</string>
+    <string name="panel_title">FPV VR  (tap the screen to close)</string>
+    <string name="usb_tethering">USB tethering (connection sharing settings)</string>
+    <string name="vr_mode">VR (two eyes)</string>
+    <string name="grid">Alignment grid (red = left eye, blue = right eye)</string>
+    <string name="osd">OSD</string>
+    <string name="stats">Statistics (fps, latency)</string>
+    <string name="preset_gear">Preset: Samsung Gear VR</string>
+    <string name="preset_cardboard">Preset: Cardboard / VR box</string>
+    <string name="size">Picture size</string>
+    <string name="ipd">Eye spacing (mm, this way round)</string>
+    <string name="x_offset">Horizontal shift (mm, this way round)</string>
+    <string name="y_offset">Vertical shift (mm)</string>
+    <string name="k1">Lens distortion k1</string>
+    <string name="k2">Lens distortion k2</string>
+    <string name="osd_area">OSD area</string>
+    <string name="chroma">Colour fringe correction</string>
+    <string name="reset">Reset all settings</string>
+    <string name="net_info">Video UDP %1$d, telemetry UDP %2$d</string>
+    <string name="net_hint">With USB tethering on, the OpenHD ground station sends video and telemetry to this phone by itself.</string>
+    <string name="no_video">NO VIDEO</string>
+    <string name="tether_on">USB tethering on, waiting for the OpenHD ground station (UDP %1$d)</string>
+    <string name="tether_off">USB tethering OFF: tap the screen > \"USB tethering\"</string>
+    <string name="no_telemetry">NO TELEMETRY (UDP %1$d)</string>
+</resources>
