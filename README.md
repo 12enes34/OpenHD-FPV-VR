@@ -2,7 +2,7 @@
 
 [Türkçe → README_TR.md](README_TR.md) · **[Download the APK](../../releases/latest)**
 
-![FPV VR in VR mode with the flight controller's menu (test stream)](docs/vr_osd_menu.png)
+![FPV VR in VR mode: FPV video with the flight controller OSD](docs/fpv_vr_mode.jpg)
 
 An Android app that shows the **OpenHD** video and your flight controller's **OSD** on a phone that sits
 in VR goggles (Samsung Gear VR, Google Cardboard, any "VR box" with two lenses), so it feels like DJI
@@ -16,6 +16,19 @@ flight mode appear inside the picture, but the app also works with plain OpenHD.
 * Alignment grid and sliders for eye spacing, shift, picture size, lens distortion and OSD area.
   Separate values are kept for each way the phone can be inserted.
 * No internet, no account, no extra libraries. The APK is about 35 KB.
+
+## Screenshots
+
+| Flight OSD (voltage, timer, flight mode) | Flight controller menu, as in DJI goggles |
+|---|---|
+| ![Flight OSD](docs/fpv_osd_flight.jpg) | ![FC menu](docs/fpv_osd_menu.jpg) |
+
+![Test pattern with the FC menu in VR mode](docs/vr_osd_menu.png)
+
+<sub>The phone screenshots were taken with a recorded FPV flight streamed to the app the way OpenHD
+does it, plus simulated OSD data. The video is "Cinematic FPV Flight on Washington Coast – 4K" by
+**Holler FPV**, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cinematic_FPV_Flight_on_Washington_Coast_-_4K.webm).</sub>
 
 ## How it connects
 

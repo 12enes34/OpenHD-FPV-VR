@@ -2,7 +2,7 @@
 
 [English → README.md](README.md) · **[APK'yı indir](../../releases/latest)**
 
-![FPV VR, VR modunda uçuş kontrolcüsünün menüsüyle (test görüntüsü)](docs/vr_osd_menu.png)
+![FPV VR, VR modunda: FPV görüntüsü ve uçuş kontrolcüsünün OSD'si](docs/fpv_vr_mode.jpg)
 
 Bu Android uygulaması **OpenHD** görüntüsünü ve uçuş kontrolcüsünün **OSD**'sini, VR gözlüğe
 (Samsung Gear VR, Google Cardboard ya da iki mercekli herhangi bir "VR kutusu") takılan telefonda
@@ -17,6 +17,19 @@ görüntünün içinde görünür. Köprü olmadan, düz OpenHD ile de çalış�
 * Hizalama ızgarası ve ayarlar: göz arası, kaydırma, görüntü boyutu, bükme, OSD alanı. Telefonun
   gözlüğe takıldığı iki yön için ayrı ayarlar saklanır.
 * İnternet, hesap ya da ek kütüphane gerekmez. APK yaklaşık 35 KB.
+
+## Ekran görüntüleri
+
+| Uçuş OSD'si (voltaj, süre, uçuş modu) | Uçuş kontrolcüsünün menüsü, DJI gözlükteki gibi |
+|---|---|
+| ![Uçuş OSD'si](docs/fpv_osd_flight.jpg) | ![FC menüsü](docs/fpv_osd_menu.jpg) |
+
+![VR modunda test görüntüsü ve FC menüsü](docs/vr_osd_menu.png)
+
+<sub>Telefon ekran görüntüleri, kayıtlı bir FPV uçuşunun uygulamaya OpenHD'nin yaptığı gibi
+gönderilmesiyle alındı; OSD verileri benzetimdir. Video: "Cinematic FPV Flight on Washington Coast – 4K",
+**Holler FPV**, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/),
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cinematic_FPV_Flight_on_Washington_Coast_-_4K.webm).</sub>
 
 ## Kurulum
 
